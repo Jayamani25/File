@@ -18,9 +18,6 @@ Step 6: File has been created and written with student details
 
 ## Program:
 ```
-NAME: KAVIYA SHREE S
-Reg.No: 212222110018
-
 using System;
 using System.IO;
 struct student
